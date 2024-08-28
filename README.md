@@ -6,3 +6,6 @@ Assignment-1
 
 Assignment-2
 [https://github.com/varshithreddy07/23CSBTB40/blob/main/AIML_2.ipynb]
+
+Assignment-4
+1.[https://github.com/varshithreddy07/23CSBTB40/blob/main/assignment_4_1.ipynb]
