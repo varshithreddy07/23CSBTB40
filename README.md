@@ -12,3 +12,6 @@ Assignment-3
 
 Assignment-4
 1.[https://github.com/varshithreddy07/23CSBTB40/blob/main/assignment_4_1.ipynb]
+
+Assignment-5
+[https://github.com/varshithreddy07/23CSBTB40/blob/main/Assignment_5(Aiml).ipynb]
