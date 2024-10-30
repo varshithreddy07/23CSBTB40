@@ -27,3 +27,6 @@ Assignment-7
 
 Assignment-8
 [https://github.com/varshithreddy07/23CSBTB40/blob/main/AIML_assign_8.ipynb]
+
+Assignment-9
+[https://github.com/varshithreddy07/23CSBTB40/blob/main/AIML_assign_9.ipynb]
