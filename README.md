@@ -30,3 +30,6 @@ Assignment-8
 
 Assignment-9
 [https://github.com/varshithreddy07/23CSBTB40/blob/main/AIML_assign_9.ipynb]
+
+Assignment-10
+[https://github.com/varshithreddy07/23CSBTB40/blob/main/AIML_assign_10.ipynb]
