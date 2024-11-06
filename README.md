@@ -33,3 +33,6 @@ Assignment-9
 
 Assignment-10
 [https://github.com/varshithreddy07/23CSBTB40/blob/main/AIML_assign_10.ipynb]
+
+LAB EXAM..
+[https://github.com/varshithreddy07/23CSBTB40/blob/main/Lab_Exam.ipynb]
